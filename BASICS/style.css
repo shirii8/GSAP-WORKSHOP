@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #1b1b1b;
+    color: whitesmoke;
+}
+
+.box1{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+
+.box2{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(159, 184, 114);
+}
+
+.box3{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(206, 162, 17);
+}
+
+.textAnimation{
+    height: 100vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+textAnimation h1{
+    color: white;
+    font-size: 22px;
+}
+
+
